@@ -7,7 +7,6 @@ Find us at:
 * [Discourse](https://discourse.linuxserver.io) - post on our community forum.
 * [Fleet](https://fleet.linuxserver.io) - an online web interface which displays all of our maintained images.
 * [GitHub](https://github.com/linuxserver) - view the source for all of our repositories.
-* [Podcast](https://anchor.fm/linuxserverio) - on hiatus. Coming back soon (late 2018).
 * [Open Collective](https://opencollective.com/linuxserver) - please consider helping us by either donating or contributing to our budget
 
 # Wireguard on Ubuntu
