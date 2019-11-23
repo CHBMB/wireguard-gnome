@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name[en_GB]=WireGuard
+Categories=System;
+X-GNOME-FullName[en_GB]=WireGuard
+Comment[en_GB]=Toggle WireGuard
+Icon=wireguard.png
+NoDisplay=false
+Exec=bash -c /home/$USER/.wireguard/wireguard.sh
+Terminal=false
+X-GNOME-UsesNotifications=true
